@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     height="512"
+     viewBox="0 0 512 512.00002"
+     width="512"
+     version="1.1"
+     id="svg19"
+     sodipodi:docname="icon.svg"
+     inkscape:version="0.92.3 (2405546, 2018-03-11)"
+     inkscape:export-filename="C:\Users\Simon\Git\rally_app\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@2x.png"
+     inkscape:export-xdpi="10.88"
+     inkscape:export-ydpi="10.88">
+    <metadata
+         id="metadata25">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title></dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs
+         id="defs23" />
+    <sodipodi:namedview
+         pagecolor="#2e2f36"
+         bordercolor="#666666"
+         borderopacity="1"
+         objecttolerance="10"
+         gridtolerance="10"
+         guidetolerance="10"
+         inkscape:pageopacity="1"
+         inkscape:pageshadow="2"
+         inkscape:window-width="640"
+         inkscape:window-height="480"
+         id="namedview21"
+         showgrid="false"
+         inkscape:showpageshadow="false"
+         inkscape:zoom="1.2841797"
+         inkscape:cx="-10.350318"
+         inkscape:cy="160.07555"
+         inkscape:current-layer="svg19" />
+    <linearGradient
+         id="a"
+         gradientUnits="userSpaceOnUse"
+         x1="447.27563"
+         x2="494.32233"
+         y1="249.2876"
+         y2="343.50959">
+        <stop
+             offset="0"
+             stop-opacity=".125"
+             id="stop2" />
+        <stop
+             offset="1"
+             stop-color="#fff"
+             stop-opacity="0"
+             id="stop4" />
+    </linearGradient>
+    <g
+         transform="matrix(0.78707226,0,0,0.78707226,54.5095,-426.01358)"
+         id="g17">
+        <path
+             d="M 256,610.51965 A 256,256 0 0 0 0,866.51965 H 122 A 134,134 0 0 1 256,732.51965 Z"
+             id="path7"
+             inkscape:connector-curvature="0"
+             style="fill:#005d57" />
+        <path
+             d="M 256,610.51965 V 732.51965 A 134,134 0 0 1 390,866.51965 H 512 V 648.92004 C 512,627.64643 494.87516,610.51965 473.60156,610.51965 Z"
+             id="path9"
+             inkscape:connector-curvature="0"
+             style="fill:#1eb980" />
+        <path
+             d="M 0,866.51965 A 256,256 0 0 0 256,1122.5197 V 1000.5196 A 134,134 0 0 1 122,866.51965 Z"
+             id="path11"
+             inkscape:connector-curvature="0"
+             style="fill:#007d51" />
+        <path
+             d="M 390,866.51965 A 134,134 0 0 1 256,1000.5196 V 1122.5197 A 256,256 0 0 0 512,866.51965 Z"
+             id="path13"
+             inkscape:connector-curvature="0"
+             style="fill:#35eab6" />
+        <path
+             d="M 390,256 430.6582,368.79297 H 485.63867 A 256,256 0 0 0 512,256 Z"
+             transform="translate(0,610.51965)"
+             id="path15"
+             style="fill:url(#a)"
+             inkscape:connector-curvature="0" />
+    </g>
+</svg>

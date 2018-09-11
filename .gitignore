@@ -1,0 +1,9 @@
+Thumbs.db
+.DS_Store
+.dart_tool/
+.packages
+.pub/
+.idea/
+.flutter-plugins
+build/
+*.iml
