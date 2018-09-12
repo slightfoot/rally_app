@@ -135,7 +135,7 @@ class _TabState extends State<_Tab> {
 									opacity: tabVisibility,
 									child: ClipRect(
 										child: Align(
-											alignment: Alignment.topLeft,
+											alignment: Alignment.centerLeft,
 											heightFactor: 1.0,
 											widthFactor: tabVisibility,
 											child: child,
@@ -143,10 +143,7 @@ class _TabState extends State<_Tab> {
 									),
 								);
 							},
-							child: Align(
-								alignment: Alignment.centerLeft,
-								child: Text(widget.tab.label),
-							),
+							child: Text(widget.tab.label),
 						),
 					],
 				),
